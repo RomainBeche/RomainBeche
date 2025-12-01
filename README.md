@@ -25,10 +25,10 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Stats
 
 <div align="center">
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRomainBeche=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" alt="GitHub Stats" height="170"/>
+  <img src="![Romain's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomainBeche&show_icons=true&theme=gruvbox)" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainBeche&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" height="170"/>
 </div>
 
