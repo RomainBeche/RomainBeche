@@ -39,7 +39,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  ![snake gif](https://github.com/RomainBeche/RomainBeche/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/RomainBeche/RomainBeche/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ---
