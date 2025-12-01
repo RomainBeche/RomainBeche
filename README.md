@@ -30,8 +30,8 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RomainBeche&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainBeche&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" height="170"/>
 </div>
 
 ---
@@ -39,7 +39,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/RomainBeche/RomainBeche/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
