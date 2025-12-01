@@ -39,7 +39,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RomainBeche/RomainBeche/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  ![snake gif](https://github.com/RomainBeche/RomainBeche/blob/output/github-snake-dark.svg)
 </div>
 
 ---
@@ -49,34 +49,3 @@
 </div>
 
 ---
-
-<!-- 
-  Setup Instructions:
-  1. Replace all instances of YOUR_USERNAME with your GitHub username
-  2. Create .github/workflows/snake.yml with the workflow below
-  3. Fill in the About Me section with your information
-  4. Enable GitHub Actions in your repository settings
--->
-
-<!--
-  Snake Animation Workflow File
-  Save this as: .github/workflows/snake.yml
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: YOUR_USERNAME
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
--->
