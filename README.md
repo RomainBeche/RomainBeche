@@ -28,8 +28,8 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RomainBeche&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RomainBeche&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RomainBeche&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainBeche&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" height="170"/>
 </div>
 
 
