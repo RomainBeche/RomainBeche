@@ -4,8 +4,7 @@
 
 ## 👋 About Me
 
-<!-- Add your personal information here -->
-**[Your introduction and interests will go here]**
+Second-year student in the preparatory cycle at CESI, with a major in computer science. Passionate about new technologies, I am looking to develop innovative solutions and put my creativity to work on meaningful and rewarding projects as part of a 12-week internship starting April 7 2026.
 
 
 
