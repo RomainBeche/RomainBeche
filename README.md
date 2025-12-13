@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" />
+  <img width="1834" height="718" alt="README_banner" src="https://github.com/user-attachments/assets/f077fa56-0621-4fc6-bf9b-f6c90bf75516" />
 </div>
 <br />
 
