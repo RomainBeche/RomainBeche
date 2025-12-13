@@ -1,10 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" />
 </div>
+<br />
 
 ## 👋 About Me
 
 Second-year student at CESI, with a major in computer science. Passionate about new technologies, I am looking to develop innovative solutions and put my creativity to work on meaningful and rewarding projects as part of a 12-week internship starting April 7 2026.
+<br />
+<br />
 
 ## 🛠️ Languages and Tools
 
