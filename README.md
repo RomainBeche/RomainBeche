@@ -8,6 +8,7 @@
 Second-year student at CESI, with a major in computer science. Passionate about new technologies, I am looking to develop innovative solutions and put my creativity to work on meaningful and rewarding projects as part of a 12-week internship starting April 7 2026.
 <br />
 
+
 ## 🛠️ Languages and Tools
 
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -23,6 +24,8 @@ Second-year student at CESI, with a major in computer science. Passionate about 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <br />
+<br />
+
 
 ## 📊 Stats
 
